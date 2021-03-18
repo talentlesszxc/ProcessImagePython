@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/pref">
+        <file>icons/exit.png</file>
+        <file>icons/fit.png</file>
+        <file>icons/open-file.png</file>
+        <file>icons/zoom_in.png</file>
+        <file>icons/zoom_out.png</file>
+        <file>icons/fit_inv.png</file>
+        <file>icons/Artboard_19-512.png</file>
+        <file>icons/1746178-200.png</file>
+        <file>icons/orig.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/res.png</file>
+    </qresource>
+</RCC>
